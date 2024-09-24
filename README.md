@@ -1,4 +1,4 @@
-# Docker image & algorithm submission for Category 2 of SurgToolLoc Challenge 2022
+# Docker image & algorithm submission for Category 1 of SurgToolLoc Challenge 2024
 
 This repository has everything you and your team need to make an algorithm submission for the [SurgToolLoc Challenge](https://surgtoolloc.grand-challenge.org/) Category 2.
 
