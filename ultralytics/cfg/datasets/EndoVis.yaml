@@ -1,0 +1,20 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../../../datasets/EndoVis  # dataset root dir
+train: C:/LHT_MICCAI_Challenge2024/yolov10-main/datasets/images/train  # train images (relative to 'path') 128 images
+val: C:/LHT_MICCAI_Challenge2024/yolov10-main/datasets/images//val # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes (12 EndoVis classes)
+names:
+  0: needle driver
+  1: monopolar curved scissors
+  2: force bipolar
+  3: clip applier
+  4: cadiere forceps
+  5: bipolar forceps
+  6: vessel sealer
+  7: permanent caute hook
+  8: prograsp forceps
+  9: stapler
+  10: grasping retractor
+  11: tip-up fenestra grasper
